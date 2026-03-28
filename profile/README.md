@@ -1,3 +1,6 @@
+
+<img width="1920" height="350" alt="20260329_015031" src="https://github.com/user-attachments/assets/17ad7c2c-d51d-4246-8eb7-f8946a7748f2" />
+
 ## 👋 Welcome to Valdex
 
 # Valdex Organization
@@ -15,7 +18,8 @@ Where creativity meets code—building digital experiences without limits.
 Valdex is not limited to a single category. We explore and develop across multiple areas:
 
 - 🎮 Game mods and enhancements  
-- 🛠️ Tools and utilities  
+- 🛠️ Tools and utilities
+
 - 💻 Software and applications  
 - ⚙️ Performance and optimization projects  
 - 🧪 Experimental and creative concepts  
