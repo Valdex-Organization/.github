@@ -1,4 +1,4 @@
-![Alt text for the image](.GitHub/images/header.png)
+![Alt text for the image](https://github.com/Valdex-Organization/.github/blob/main/images/header.png)
 
 
 
