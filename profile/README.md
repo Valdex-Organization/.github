@@ -1,4 +1,5 @@
-images/header.png
+![Alt text for the image](images/your-image-filename.png)
+
 
 ## 👋 Welcome to Valdex
 
