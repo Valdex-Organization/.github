@@ -1,4 +1,5 @@
-<img width="1920" height="350" alt="20260329_020110" src="https://github.com/user-attachments/assets/5836227e-0bf1-4647-9087-23a62f3a0dd5" />
+(images/header.png)
+" />
 
 ## 👋 Welcome to Valdex
 
