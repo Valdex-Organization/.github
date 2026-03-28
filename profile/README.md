@@ -1,5 +1,4 @@
-(images/header.png)
-" />
+images/header.png
 
 ## 👋 Welcome to Valdex
 
