@@ -1,4 +1,5 @@
-![test image](.github/images/header.png)
+![Alt text for the image](.GitHub/images/header.png)
+
 
 
 ## 👋 Welcome to Valdex
